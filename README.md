@@ -392,12 +392,11 @@ nsys-ui profile.nsys-rep
 If you use this benchmark suite in your research, please cite the paper:
 
 ```bibtex
-@article{agentic2025,
-  title={Characterizing and Optimizing Agentic AI Workloads},
-  author={[Authors]},
+@article{raj2025cpu,
+  title={A CPU-Centric Perspective on Agentic AI},
+  author={Raj, Ritik and Wang, Hong and Krishna, Tushar},
   journal={arXiv preprint arXiv:2511.00739},
-  year={2025},
-  url={https://arxiv.org/pdf/2511.00739}
+  year={2025}
 }
 ```
 
