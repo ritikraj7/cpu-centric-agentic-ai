@@ -1,6 +1,6 @@
 # CPU-Centric Agentic AI Benchmarking Suite
 
-A comprehensive benchmarking framework for evaluating and optimizing CPU-centric agentic AI systems across multiple workloads, reproducing results from the research paper: **"Characterizing and Optimizing Agentic AI Workloads"** ([arXiv:2511.00739](https://arxiv.org/pdf/2511.00739)).
+A comprehensive benchmarking framework for evaluating and optimizing CPU-centric agentic AI systems across multiple workloads, reproducing results from the research paper: **"A CPU-centric Perspective on Agentic AI"** ([arXiv:2511.00739](https://arxiv.org/pdf/2511.00739)).
 
 [![Paper](https://img.shields.io/badge/arXiv-2511.00739-b31b1b.svg)](https://arxiv.org/pdf/2511.00739)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
