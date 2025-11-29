@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Models and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+models/
+checkpoints/
+model_cache/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Data files
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Generated files
+results/
+logs/
+outputs/
+*.log
+
+# API keys and secrets
+.env
+.env.local
+*.key
+secrets/
+credentials.json
+
+# FAISS indices
+*.index
+*.faiss
+rag_flat_store/
+index_store/
+
+# vLLM cache
+.vllm_cache/
+
+# Energy measurement outputs
+energy/gpu_power.csv
+energy/*.csv
