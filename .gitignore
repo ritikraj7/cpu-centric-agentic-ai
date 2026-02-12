@@ -22,7 +22,6 @@ venv.bak/
 *.ckpt
 *.bin
 *.safetensors
-models/
 checkpoints/
 model_cache/
 
