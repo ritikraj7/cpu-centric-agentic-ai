@@ -34,7 +34,7 @@ This repository provides a complete benchmarking suite for characterizing latenc
 - Model (customizable): GPT-OSS-20B (via vLLM) 
 - Optimization: Parallel URL fetching, batch LLM inference
 
-**Location**: [`langchain/`](langchain/) | [README](langchain/README.md)
+**Location**: [`langchain/`](langchain/) | [README](langchain/README.md) | [XPU](langchain/XPU.md)
 
 ### 2. Haystack (RAG System)
 
@@ -46,7 +46,7 @@ This repository provides a complete benchmarking suite for characterizing latenc
 - Scale: 10M+ documents with 768-dim embeddings
 - Optimization: Memory-mapped I/O, LRU shard caching, parallel retrieval
 
-**Location**: [`haystack/`](haystack/) | [README](haystack/README.md)
+**Location**: [`haystack/`](haystack/) | [README](haystack/README.md) | [XPU](haystack/XPU.md)
 
 ### 3. Mini-SWE-Agent (Code Generation)
 
@@ -58,7 +58,7 @@ This repository provides a complete benchmarking suite for characterizing latenc
 - Features: Bash execution, multi-step reasoning, latency profiling
 - Datasets: SWE-bench, SciCode, LiveCodeBench
 
-**Location**: [`mini-swe-agent/`](mini-swe-agent/) | [README](mini-swe-agent/README.md)
+**Location**: [`mini-swe-agent/`](mini-swe-agent/) | [README](mini-swe-agent/README.md) | [XPU](mini-swe-agent/XPU.md)
 
 ### 4. Toolformer (Math Problem-Solving)
 
